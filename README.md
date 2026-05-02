@@ -109,5 +109,6 @@ By combining data modeling, visualization, and storytelling, the dashboard provi
 
 Kanika Jain
 Data Analyst | Power BI Enthusiast | HR Analytics
- Linkedin -https://www.linkedin.com/in/kanika-jain-a46816228/
+
+Linkedin -https://www.linkedin.com/in/kanika-jain-a46816228/
 Portfolio- https://jainkanika09.github.io/jainkanika09.git.io/
