@@ -16,6 +16,7 @@ Monitor workforce distribution and demographics
 Analyze compensation structures across roles and qualifications
 Identify workforce trends and potential risk areas
 Support leadership with actionable, insight-driven decision-making
+
 📌 Key Insights
 👥 Workforce Composition
 Total Employees: 161
@@ -108,5 +109,5 @@ By combining data modeling, visualization, and storytelling, the dashboard provi
 
 Kanika Jain
 Data Analyst | Power BI Enthusiast | HR Analytics
-https://www.linkedin.com/in/kanika-jain-a46816228/
-https://jainkanika09.github.io/jainkanika09.git.io/
+ Linkedin -https://www.linkedin.com/in/kanika-jain-a46816228/
+Portfolio- https://jainkanika09.github.io/jainkanika09.git.io/
